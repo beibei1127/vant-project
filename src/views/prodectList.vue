@@ -14,6 +14,7 @@
             <p :class="getActiveCls(0)" @click="changeTab(0)">全部</p>
             <p :class="getActiveCls(1)" @click="changeTab(1)">奶粉</p>
             <p :class="getActiveCls(2)" @click="changeTab(2)">图书</p>
+
         </div>
 
 
